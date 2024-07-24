@@ -36,5 +36,11 @@
         "content": "add a sidebar with the navlinks home, about and contact",
         "timestamp": "24072024100527",
         "message_id": "guest24072024100526"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, here is an example of the sidebar with navlinks:\n\n```\n<div class=\"sidebar\">\n  <a href=\"/\">Home</a>\n  <a href=\"/about\">About</a>\n  <a href=\"/contact\">Contact</a>\n</div>\n```\n\nYou can style it using CSS to make it look better on your website.",
+        "timestamp": "24072024100528",
+        "message_id": "guest24072024100526"
     }
 ]
