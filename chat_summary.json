@@ -18,5 +18,11 @@
         "content": "<button>Hello World</button>",
         "timestamp": "24072024100250",
         "message_id": "guest24072024100249"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hey there",
+        "timestamp": "24072024100424",
+        "message_id": "guest24072024100424"
     }
 ]
